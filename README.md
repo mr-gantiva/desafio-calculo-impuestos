@@ -20,7 +20,7 @@ El proyecto está compuesto por los siguientes archivos:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/usuario/proyecto-calculo-impuestos.git
+   git clone https://github.com/mr-gantiva/desafio-calculo-impuestos
    cd proyecto-calculo-impuestos
    npm install
    npm run build
